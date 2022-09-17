@@ -1,3 +1,8 @@
+** STUDENT COMMENT **
+I believe the test is failing because it is timing out expecting a user input for baked_good and frequency.
+
+
+
 # Baking Recipe
 
 ## Challenge 2
